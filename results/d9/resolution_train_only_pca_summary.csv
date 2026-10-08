@@ -1,0 +1,3 @@
+resolution,raw_dimension,pca_dimension,train_only_pca_variance
+LowRes_38pxUpscaled,384,50,0.8743764758110046
+FullRes_224px,384,50,0.8956280946731567

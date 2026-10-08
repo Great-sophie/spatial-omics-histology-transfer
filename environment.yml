@@ -1,0 +1,22 @@
+name: spatialomics
+
+channels:
+  - conda-forge
+  - pytorch
+  - nvidia
+
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - pillow
+  - scanpy
+  - squidpy
+  - pytorch
+  - torchvision
+  - pip
+  - pip:
+      - torch-geometric

@@ -1,0 +1,3 @@
+encoder,raw_dimension,pca_dimension,train_only_pca_variance
+ResNet50,2048,50,0.8792202472686768
+DINOv2_ViTS14,384,50,0.8743764758110046

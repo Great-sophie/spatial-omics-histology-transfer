@@ -1,0 +1,15 @@
+metric,value
+n_patches,2688
+model,dinov2_vits14
+input_size,224
+embedding_dimension,384
+batch_size,32
+device,cuda
+embedding_dtype,float32
+embedding_mean,0.04818526655435562
+embedding_std,2.4930925369262695
+embedding_norm_mean,48.84901809692383
+embedding_norm_std,1.1921920776367188
+nan_count,0
+inf_count,0
+elapsed_seconds,2.3584659099578857

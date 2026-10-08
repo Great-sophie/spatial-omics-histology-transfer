@@ -1,0 +1,17 @@
+metric,value
+n_total,2688
+n_train_pool,1999
+n_test,689
+n_fit,1510
+n_validation,489
+raw_embedding_dim,2048
+pca_dim,50
+final_pca_variance,0.8792202472686768
+hidden_dim,64
+dropout,0.2
+learning_rate,0.001
+weight_decay,0.0001
+max_epochs,500
+patience,60
+n_seeds,5
+graph_training_mode,strict_inductive_train_test_graph_separation

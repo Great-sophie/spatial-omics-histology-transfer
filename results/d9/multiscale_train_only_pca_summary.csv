@@ -1,0 +1,4 @@
+feature_set,raw_dimension,pca_dimension,train_only_pca_variance
+LowRes,384,50,0.8743764758110046
+FullRes,384,50,0.8956280946731567
+MultiScaleConcat,768,50,0.8236371874809265

@@ -1,0 +1,9 @@
+metric,value
+n_patches,2688
+embedding_model,ResNet50_ImageNet
+embedding_dimension,2048
+pca_dimension,50
+pca_solver,randomized
+embedding_nan_count,0
+pca_nan_count,0
+pca_explained_variance_total,0.8751749396324158

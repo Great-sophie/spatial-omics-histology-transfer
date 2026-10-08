@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Raw spatial-omics data
+data/
+**/data/
+
+# Whole-slide / histology images
+*.tif
+*.tiff
+*.svs
+*.ndpi
+*.mrxs
+
+# Visium / AnnData
+*.h5
+*.h5ad
+*.loom
+*.mtx
+
+# Embeddings and checkpoints
+*.npy
+*.npz
+*.pt
+*.pth
+*.ckpt
+
+# Extracted patches
+patches/
+patches_lowres/
+patches_fullres/
+**/patches_lowres/
+**/patches_fullres/
+
+# Large intermediate outputs
+*predictions.csv
+
+# Temp
+*.log
+*.tmp
+*.bak

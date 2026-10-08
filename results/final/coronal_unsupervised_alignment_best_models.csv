@@ -1,0 +1,5 @@
+gene,best_pearson_alignment,best_pearson_model,best_pearson,best_r2_alignment,best_r2_model,best_r2
+Camk2n1,None,SeparatePCA50x2_GraphSAGE,0.43147335648536683,None,FullExpert_GraphSAGE,-0.7219892263412475
+Slc17a7,None,LowExpert_GraphSAGE,0.5805192947387695,ZScore,LowExpert_GraphSAGE,-0.6141353845596313
+Plp1,ZScore,LowExpert_GraphSAGE,0.6407860398292542,None,LowExpert_GraphSAGE,0.2320529580116272
+Cldn11,ZScore,LowExpert_GraphSAGE,0.5534194827079773,None,LowExpert_GraphSAGE,0.09156889915466308

@@ -1,0 +1,10 @@
+metric,value
+n_spots,2688.0
+central_feature_dim,50.0
+neighbor_feature_dim,50.0
+context_feature_dim,100.0
+mean_degree,5.796131134033203
+median_degree,6.0
+min_degree,1.0
+max_degree,6.0
+zero_degree_spots,0.0

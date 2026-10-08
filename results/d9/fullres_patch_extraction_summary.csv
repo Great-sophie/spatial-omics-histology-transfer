@@ -1,0 +1,9 @@
+metric,value
+n_spots,2688
+image_width,11291
+image_height,11757
+patch_size_px,224
+patch_area_px,50176
+n_padded_patches,0
+coordinate_system,full_resolution
+source_image,/media/sophie/Data2T/Biomedical AI  skill/D8 Squidpy/data/anndata/V1_Adult_Mouse_Brain_image.tif

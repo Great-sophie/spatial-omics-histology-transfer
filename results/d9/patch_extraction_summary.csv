@@ -1,0 +1,11 @@
+metric,value
+n_spots,2688
+image_key,hires
+image_width,1921
+image_height,2000
+coordinate_scale,0.17011142
+spot_diameter_fullres,89.44476048022638
+spot_diameter_image,15.215575216851192
+patch_factor,2.5
+crop_size_px,38
+model_input_size_px,224
